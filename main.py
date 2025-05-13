@@ -23,5 +23,5 @@ for article in content["articles"][:20]:
         body += f"URL: {article['url']}\n\n"
 
 # Use subject as a separate argument
-send_email(subject="Today's Tesla News", message_body=body)
+send_email(subject="Today's News", message_body=body)
 

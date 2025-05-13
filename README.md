@@ -1,0 +1,1 @@
+This App is to send news through Email
